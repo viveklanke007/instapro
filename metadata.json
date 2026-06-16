@@ -1,0 +1,6 @@
+{
+  "name": "InstaPro",
+  "description": "Premium dark-themed full-stack social media app combining Instagram, Threads, and X features with comprehensive Gemini AI assistants, vertical Reels, voice notes, anonymous stories, community rooms, and administrative analytics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
